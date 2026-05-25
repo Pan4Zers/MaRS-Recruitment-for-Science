@@ -1,2 +1,8 @@
-Module 1 Tinkercad Link : https://www.tinkercad.com/things/gu1BkR1vSWp-distance-sensor-warning?sharecode=IMuexQe1RcU70sFCJ4MPvv12IMKCiMI2220SmnKjrGs /
-Test
+Module 1 Tinkercad Link : https://www.tinkercad.com/things/gu1BkR1vSWp-distance-sensor-warning?sharecode=IMuexQe1RcU70sFCJ4MPvv12IMKCiMI2220SmnKjrGs 
+
+Aim : Create an Earth-based prototype of an object-sensor and elaborate on it's flaws which exxplains why standard sensors will fail in Martian environments.
+
+Outcome : 
+>Learnt how to use an HCSR04 and Ping Sensors
+>Learnt how distance sensors work and the arithmetic as well as the internal working of the components and their uses.
+>Understood pulse transmission and echo travel times

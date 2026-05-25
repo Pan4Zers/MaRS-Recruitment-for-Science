@@ -1,1 +1,8 @@
 Module 2 Tinkercad Link : https://www.tinkercad.com/things/anXkTKgmv8x-motor-push-button-led?sharecode=vsuA_zhPcvgg728jG2pw457X8QoYqpjAXlJ9LHlZPiI
+
+Aim : To create a protective system for power to be disconnected upon detection of mechanical resitance on wheels toaavoid excess power outage 
+       in the form of a LED-pushbutton circuit that activates when the motors are in danger. 
+
+Outcome : 
+> Understood the logic and code behind pushbuttons
+> Created and simulated a circuit with an LED warning light controlled by pushbutton inputs

@@ -1,1 +1,9 @@
 Module 3 Tinkercad Link : https://www.tinkercad.com/things/c21vD4Sp4XW-temperaturesensortmp36?sharecode=dSKJyEBqZbmHGICr0EBAV5L0sb82blsVsU-U6I55AN4
+
+Aim : To create a simple temperature sensor and explain the flaws behind standard commercial equipment in Martian frigid environments
+
+Outcome : 
+> Learnt how to use DHT11 and TMP36 sensors
+> Understood analog pins of Arduino boards on a much fundamental basis
+> Figured how to convert analog inputs to voltages and temperatures
+> Elaborated on why commerical systems will fail and presented an alternative solution tocombat this issue

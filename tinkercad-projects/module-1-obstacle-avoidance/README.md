@@ -11,8 +11,8 @@ Ultrasonic sensors operate by emitting sound waves and measuring the time taken 
 On Mars the atomospheric pressure is approx 0.6% of Earth's - this near vacuum condition means that sound propagate with significantly reduced intensity. \
 Ultrasonic sensors become largely non-functional in such conditions. \
 IR sensors are rendered useless during dust storms as suspended dust particles scatter and absorb IR wavelengths causing either false readings or signal losses. \
-Mars recieves direct solar IR radiation which also cause signal issues to the sensors. \
+Mars recieves direct solar IR radiation which also cause signal issues to the sensors. 
 
-For realiable navigation during storms we have to implement the following things : \
+For realiable navigation during storms we have to implement the following things : 
 >LiDAR system for operating in the near-IR spectrum with sufficient pulse energy to penetrate dust. \
 >Paired with IMU (Inertial Measurement Unit) that would supplement these sensors by providing dead-reckoning navigation when external sensing is compromised. \

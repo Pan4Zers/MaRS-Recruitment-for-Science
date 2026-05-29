@@ -6,7 +6,7 @@ An ultrasonic sensor (PING sensor) was connected to an Arduino Uno along with an
 An if condition was written that evaluates whether the measured distance is below 100cm. 
 When the if condition is TRUE then the warning LED lights up otherwise if FALSE then the LED remains OFF.
 
-Engineering brief: 
+Engineering brief: \
 Ultrasonic sensors operate by emitting sound waves and measuring the time taken for the echo to return.
 On Mars the atomospheric pressure is approx 0.6% of Earth's - this near vacuum condition means that sound propagate with significantly reduced intensity.
 Ultrasonic sensors become largely non-functional in such conditions. 

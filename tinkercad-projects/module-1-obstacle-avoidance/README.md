@@ -1,6 +1,7 @@
 Module 1 Tinkercad Link : https://www.tinkercad.com/things/gu1BkR1vSWp-distance-sensor-warning?sharecode=IMuexQe1RcU70sFCJ4MPvv12IMKCiMI2220SmnKjrGs 
 
-Aim : Create an Earth-based prototype of an object-sensor and elaborate on it's flaws which exxplains why standard sensors will fail in Martian environments.
+Aim : \
+Create an Earth-based prototype of an object-sensor and elaborate on it's flaws which exxplains why standard sensors will fail in Martian environments.
 
 An ultrasonic sensor (PING sensor) was connected to an Arduino Uno along with an LED. 
 An if condition was written that evaluates whether the measured distance is below 100cm. 

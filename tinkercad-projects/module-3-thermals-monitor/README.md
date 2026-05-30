@@ -13,9 +13,9 @@ Temperature in degrees C is then derived using the relation: \
 T = (V - 0.5) * 100 \
 At 0 degrees C the voltage is 0.5V thereby creating an offset. \
 The factor of hundred represents the 0.01 increasae in voltage per degree celcius.\
-Serial.begin with baud rate of 9600 initializes the communication channel and Serial.print() transmits the values to the Serial Monitor. \
+Serial.begin with baud rate of 9600 initializes the communication channel and Serial.print() transmits the values to the Serial Monitor. 
 
-Engineering Brief : \ 
+Engineering Brief : 
 During dust storms, power management becomes the most critical survival function. \
 The rover will operate4 on a tiered system for power : \
 At the highest tier, the heaters make sure the battery remains above -20 Celcius to recieve uninterrupted power from the main battery bank. \

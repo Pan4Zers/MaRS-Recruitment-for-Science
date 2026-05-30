@@ -6,7 +6,7 @@ Working Methodology : \
 A TMP 36 temperature sensor is connected to the analog pin of an Arduino board. \
 The sensor outputs a voltage proportional to surrounding temperature. \
 The Arduino converts this voltage to a raw integer value between 0 - 1023. \
-This raw value is firstr converted to voltage using the relation mentioned in the code. \
+This raw value is first converted to voltage using the relation mentioned in the code. \
 V = raw_value * (5.0 / 1023) \
 The Arduino's ADC maps from 0-5V which is split into 1024 steps corresponding to a increase in voltage. \
 Temperature in degrees C is then derived using the relation: \
@@ -17,7 +17,7 @@ Serial.begin with baud rate of 9600 initializes the communication channel and Se
 
 Engineering Brief : 
 During dust storms, power management becomes the most critical survival function. \
-The rover will operate4 on a tiered system for power : \
+The rover will operate on a hierarchical system for power : \
 At the highest tier, the heaters make sure the battery remains above -20 Celcius to recieve uninterrupted power from the main battery bank. \
 At the second tier we have reduced power supplied to onboard computers and communication systems. \
 Non - essential systems include science instruments, cameras and mobility actuatoers that are powered down until the solar panels recieve full radiance. \

@@ -6,5 +6,5 @@ Aim : To create a protective system for power to be disconnected upon detection 
 A pushbutton and an LED were connected to an Arduino Uno. \
 The pushbutton simulates a mechanical limit switch or stall trigger mounted on the wheel suspension. \
 The code uses a digitalRead() function to continuously poll the button pin state. \
-An if-else statement evaluates the pin — if the button is pressed (HIGH), the motor shut-off LED activates; if not pressed (LOW), the LED remains off. \
+An if-else statement evaluates the pin, if the button is pressed giving HIGH signakl, the motor shut-off LED activates, if it is not pressed giving the LOW, the LED remains off. \
 This logic simulates an immediate power cut response to a detected stall event.

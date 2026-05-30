@@ -9,8 +9,8 @@ When the if condition is TRUE then the warning LED lights up otherwise if FALSE 
 
 Engineering brief: \
 Ultrasonic sensors operate by emitting sound waves and measuring the time taken for the echo to return.\
-On Mars the atomospheric pressure is approx 0.6% of Earth's - this near vacuum condition means that sound propagate with significantly reduced intensity. \
-Ultrasonic sensors become largely non-functional in such conditions. \
+On Mars the atomospheric pressure is approx 0.6% of Earth's, this near vacuum condition means that sound propagate with significantly reduced intensity. \
+Ultrasonic sensors become non-functional in such conditions. \
 IR sensors are rendered useless during dust storms as suspended dust particles scatter and absorb IR wavelengths causing either false readings or signal losses. \
 Mars recieves direct solar IR radiation which also cause signal issues to the sensors. 
 
